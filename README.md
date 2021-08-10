@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @laptopfm
+- 👀 I’m interested in web developent , networking and a lot of other computer stuff
+- 🌱 I’m currently learning java for android apps on android studio
+- 📫 you can reach me on discord at laptopfm#1916
